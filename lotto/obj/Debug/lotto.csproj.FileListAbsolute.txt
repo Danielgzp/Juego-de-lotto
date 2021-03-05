@@ -1,0 +1,179 @@
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\obj\Debug\lotto.MainForm.resources
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\obj\Debug\lotto.pdb
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\obj\Debug\lotto.registro_cartones.resources
+C:\Users\equipo\Desktop\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\equipo\Desktop\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\equipo\Desktop\lotto\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+C:\Users\equipo\Desktop\lotto\lotto\obj\Debug\lotto.MainForm.resources
+C:\Users\equipo\Desktop\lotto\lotto\obj\Debug\lotto.registro_cartones.resources
+C:\Users\equipo\Desktop\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+C:\Users\equipo\Desktop\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\equipo\Desktop\lotto\lotto\obj\Debug\lotto.pdb
+C:\Users\equipo\Desktop\lotto\lotto\obj\Debug\lotto.menu.resources
+C:\Users\equipo\Desktop\lotto\lotto\obj\Debug\lotto.loteria.resources
+C:\Users\equipo\Desktop\lotto\lotto\obj\Debug\lotto.estadisticas.resources
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\obj\Debug\lotto.estadisticas.resources
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\obj\Debug\lotto.loteria.resources
+C:\Users\Mariangel\Documents\SharpDevelop Projects\lotto\lotto\obj\Debug\lotto.menu.resources
+C:\Users\Daniel\Desktop\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\Daniel\Desktop\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.estadisticas.resources
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.loteria.resources
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.MainForm.resources
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.menu.resources
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.registro_cartones.resources
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.pdb
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.Bingo.resources
+C:\Users\Mariangel\Desktop\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\Mariangel\Desktop\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.Bingo.resources
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.estadisticas.resources
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.loteria.resources
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.MainForm.resources
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.menu.resources
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.registro_cartones.resources
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.pdb
+C:\Users\Daniel\Desktop\lotto\lotto\obj\Debug\lotto.Lista_numeros.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.Bingo.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.estadisticas.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.loteria.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.MainForm.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.menu.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.registro_cartones.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.exe
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\bin\Debug\lotto.exe
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\bin\Debug\lotto.pdb
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.pdb
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.ListaNumeros.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto(daniel)\lotto\obj\Debug\lotto.GanadorBingo.resources
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.GanadorBingo.resources
+C:\Users\Mariangel\Desktop\lotto\lotto\obj\Debug\lotto.ListaNumeros.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.Bingo.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.estadisticas.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.GanadorBingo.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.ListaNumeros.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.loteria.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.MainForm.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.menu.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.registro_cartones.resources
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\Original\Desktop\Proyectos de lotto\lotto\lotto\obj\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\bin\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\bin\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.Bingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.estadisticas.resources
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.GanadorBingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.ListaNumeros.resources
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.loteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.MainForm.resources
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.menu.resources
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.registro_cartones.resources
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto\lotto\obj\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\bin\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\bin\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.Bingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.estadisticas.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.GanadorBingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.ListaNumeros.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.loteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.MainForm.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.menu.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.registro_cartones.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto 14 ESTE SI\lotto\obj\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\bin\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\bin\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.Bingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.estadisticas.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.GanadorBingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.ListaNumeros.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.loteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.MainForm.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.menu.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.registro_cartones.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto 15 ESTE SI\lotto\obj\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\bin\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\bin\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.Bingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.estadisticas.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.GanadorBingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.ListaNumeros.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.loteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.MainForm.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.menu.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.registro_cartones.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto 16 YA CASI\lotto\obj\Debug\lotto.GanadoresLoteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\bin\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\bin\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.Bingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.estadisticas.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.GanadorBingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.GanadoresLoteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.ListaNumeros.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.loteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.MainForm.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.menu.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.registro_cartones.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%\lotto\obj\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\bin\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\bin\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.Bingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.estadisticas.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.GanadorBingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.GanadoresLoteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.ListaNumeros.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.loteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.MainForm.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.menu.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.registro_cartones.resources
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto 17 al 99%(ete sies)\lotto\obj\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\bin\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\bin\Debug\lotto.pdb
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.Bingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.estadisticas.resources
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.GanadorBingo.resources
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.GanadoresLoteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.ListaNumeros.resources
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.loteria.resources
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.MainForm.resources
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.menu.resources
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.registro_cartones.resources
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.exe
+E:\RESPALDO 12.12.2019\Juan\lotto final\lotto\obj\Debug\lotto.pdb
